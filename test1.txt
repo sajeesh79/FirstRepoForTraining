@@ -1,0 +1,2 @@
+First line adding.
+This whole file was added today to git
